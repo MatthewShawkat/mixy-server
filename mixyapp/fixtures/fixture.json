@@ -1,0 +1,24 @@
+[
+  {
+    "model": "mixyapp.Mixy",
+    "pk": 1,
+    "fields": {
+      "uuid": "cbg37ftg673ft"
+    }
+  },
+  {
+    "model": "mixyapp.Deck",
+    "pk": 1,
+    "fields": {
+      "mixy": 1 
+    }
+  },
+  {
+    "model": "mixyapp.DeckItem",
+    "pk": 1,
+    "fields": {
+      "url": "www.hexolab.com",
+      "deck": 1
+    }
+  }
+]
